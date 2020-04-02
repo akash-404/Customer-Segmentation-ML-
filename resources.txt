@@ -1,0 +1,6 @@
+https://www.kdnuggets.com/2019/11/customer-segmentation-using-k-means-clustering.html
+
+https://towardsdatascience.com/data-driven-growth-with-python-part-2-customer-segmentation-5c019d150444
+
+https://data-flair.training/blogs/r-data-science-project-customer-segmentation/
+
